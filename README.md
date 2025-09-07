@@ -1,4 +1,4 @@
-# Web Vulnerabilities (Gabrielsmind) — Full 📚
+# Web Vulnerabilities (Gabrielsmind)
 
 Practical, copy‑paste study repo for three core **web vulns** with deep coverage:
 - `command-injection/`
@@ -20,4 +20,3 @@ export target=https://example.com
 - `scripts/` — small Bash helpers (enumeration sweeps, fuzzing loops)
 
 All examples use **`$target`** so you can change targets once.
-# gabrielsmind_study_web-vulnerabilities
